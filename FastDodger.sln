@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77D0AB99-C4AD-1FEF-FFF4-BAC937889B9B}") = "FastDodger", "Assembly-CSharp.csproj", "{F57E8429-F03B-65CF-BDDF-DE1A92CB81AA}"
+EndProject
+Project("{77D0AB99-C4AD-1FEF-FFF4-BAC937889B9B}") = "FastDodger", "Assembly-CSharp-Editor.csproj", "{C9037596-54D2-DF3A-F524-4E4FE8E9D3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57E8429-F03B-65CF-BDDF-DE1A92CB81AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57E8429-F03B-65CF-BDDF-DE1A92CB81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57E8429-F03B-65CF-BDDF-DE1A92CB81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57E8429-F03B-65CF-BDDF-DE1A92CB81AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9037596-54D2-DF3A-F524-4E4FE8E9D3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9037596-54D2-DF3A-F524-4E4FE8E9D3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9037596-54D2-DF3A-F524-4E4FE8E9D3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9037596-54D2-DF3A-F524-4E4FE8E9D3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
